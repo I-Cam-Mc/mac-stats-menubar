@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac Stats Menu Bar"
+  short_description: "Set up CPU and memory-pressure indicators"
+  default_prompt: "Use $mac-stats-menubar to set up and verify compact CPU, memory, and memory-pressure indicators on this Mac."
