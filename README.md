@@ -44,3 +44,7 @@ The skill:
 - does not deliberately stress the CPU or memory unless explicitly requested
 
 Full visual verification requires a native macOS computer-use tool with Accessibility and Screen Recording access.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
